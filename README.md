@@ -1,7 +1,7 @@
 ## Must-read papers on text to images.
-RE: relation extraction.
 
-Contributed by [Ningyu Zhang]().
+
+Contributed by [Ningyu Zhang](https://zxlzr.github.io/).
 
 
 ## RNN
