@@ -1,8 +1,6 @@
 ## Must-read papers on text to images.
 
 
-Contributed by [Ningyu Zhang](https://zxlzr.github.io/).
-
 
 ## RNN
 
